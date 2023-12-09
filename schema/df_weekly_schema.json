@@ -1,0 +1,47 @@
+[
+    {
+        "name": "ts_code",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "trade_date",
+        "type": "DATETIME",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "close",
+        "type": "FLOAT64",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "open",
+        "type": "FLOAT64",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "high",
+        "type": "FLOAT64",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "low",
+        "type": "FLOAT64",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "vol",
+        "type": "FLOAT64",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "amount",
+        "type": "FLOAT64",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "ingest_ts",
+        "type": "DATETIME",
+        "mode": "REQUIRED"
+    }
+]
