@@ -1,4 +1,4 @@
-# Smart Stock Screener Framework on Google Cloud (Private)
+# Smart Stock Screener Framework on Google Cloud (public)
 
 [中文](README.CN.md)
 

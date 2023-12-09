@@ -1,4 +1,4 @@
-# Google Cloud 上的智能股票筛选框架（Privite 项目）
+# Google Cloud 上的智能股票筛选框架（Public 项目）
 
 [ENGLISH](README.md)
 
