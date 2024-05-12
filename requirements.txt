@@ -43,7 +43,7 @@ grpc-google-iam-v1==0.12.6
 grpcio==1.57.0
 grpcio-status==1.57.0
 htmlmin==0.1.12
-idna==3.4
+idna==3.7
 ImageHash==4.3.1
 importlib-metadata==6.8.0
 importlib-resources==6.0.1
