@@ -78,7 +78,7 @@ patsy==0.5.3
 pexpect==4.8.0
 phik==0.12.3
 pickleshare==0.7.5
-Pillow==10.2.0
+Pillow==10.3.0
 platformdirs==3.10.0
 prompt-toolkit==3.0.39
 proto-plus==1.22.3
