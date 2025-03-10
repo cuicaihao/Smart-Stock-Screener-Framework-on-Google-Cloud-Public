@@ -8,7 +8,7 @@
 
 ## 系统设计 System Design
 
-![Framework](design/system_design.jpg)
+![Framework](design/system_diagram.png)
 
 1. 创建新的 Google Cloud 项目或选择现有项目。
 2. 创建 Cloud Storage 存储桶来存储原始数据文件作为备份。

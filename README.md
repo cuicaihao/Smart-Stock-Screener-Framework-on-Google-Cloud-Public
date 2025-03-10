@@ -8,7 +8,7 @@ Welcome to the Smart Stock Screener Framework on Google Cloud Platform! This pro
 
 ## System Design
 
-![Framework](design/system_design.jpg)
+![Framework](design/system_diagram.png)
 
 1. Create a new Google Cloud project or select an existing project.
 2. Create a Cloud Storage bucket to store the raw datafile as backup.
